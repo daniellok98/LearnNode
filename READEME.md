@@ -1,1 +1,0 @@
-Repositorio destinado a estudar a aprender programação inicialmente utilizando node.js
