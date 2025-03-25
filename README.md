@@ -12,8 +12,9 @@ Após a instalação, abra o terminal e execute o comando:
 ```bash
 nvm install 22
 ```
-E por fim execute o comando:
+Feche quaisquer terminais e aplicações que usem o terminal como o VSCode. E por fim execute o comando:
 ```bash
+nvm use 22
 npm install
 ```
 O NPM é o gerenciador de pacotes do Node.js, ele é responsável por instalar as dependências do projeto.
