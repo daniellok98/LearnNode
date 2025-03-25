@@ -4,7 +4,7 @@ Repositorio destinado a estudar a aprender programação inicialmente utilizando
 
 ### Como executar o projeto
 
-Se você não tiver, baixe o NVM do repositorio oficial [NVM](https://github.com/coreybutler/nvm-windows/releases). Baize o nvm-setup.exe mais atual e instale no Windows. Se estiver a usar linux, instale o nvm com o comando:  
+Se você não tiver, baixe o NVM do repositorio oficial [NVM](https://github.com/coreybutler/nvm-windows/releases). Baixe o nvm-setup.exe mais atual e instale no Windows. Se estiver a usar linux, instale o nvm com o comando:  
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.2/install.sh | bash
 ```
